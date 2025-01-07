@@ -51,3 +51,6 @@ During the design process of the ESP32 smart car control system, I deeply experi
  - More practical sessions should be added to the course, giving students more opportunities to hands-on operate hardware, write code, and debug systems. Only through practice can students gain a deeper understanding of theoretical knowledge and improve their innovative practical abilities.
  -  Some team collaboration projects should be set up in the course, giving students opportunities to exercise their team collaboration and communication skills in practice. Teachers can also provide some team collaboration tips and methods to help students better cooperate with others.
  - Some application case analyses of smart car control systems can be added to the course, allowing students to understand practical application scenarios. Through discussion and analysis, students can gain a deeper understanding of the design principles and implementation methods of the system, and also stimulate their innovative thinking and improve their problem-solving abilities.
+## What's More
+This project is for the curriculum design of Programming Logic and Methodology of ZhiXing College, DUT.
+The above code is for academic reference only. Any consequences arising from improper use of the code are the sole responsibility of the user.
